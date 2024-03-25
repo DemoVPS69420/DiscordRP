@@ -68,4 +68,4 @@ async def main():
     task = asyncio.create_task(update_presence())
     await task  # Wait for the update_presence task to run (likely indefinitely)
 
-asyncio.run(main())                                                                                                                                                                                                                                                
+asyncio.run(main())
