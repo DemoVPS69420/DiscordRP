@@ -2,6 +2,7 @@ import os
 from pypresence import Presence
 import time
 import asyncio
+from asyncio import sleep
 
 # Danh sách trạng thái
 status1 = [
@@ -45,7 +46,7 @@ async def update_presence(status1, status2):
             buttons=[
                 {"label": "Server Discord của Garena LQM", "url": "https://discord.gg/lqm"}],
         )
-        await asyncio.sleep(10)  # Chờ 10 giây trước khi cập nhật trạng thái tiếp
+        sleep(10)  # Chờ 10 giây trước khi cập nhật trạng thái tiếp
         i = (i + 1) % len(status1)
         j = (i + 1) % len(status2)
 
@@ -60,9 +61,9 @@ if __name__ == "__main__":
         pass 
     finally:
         loop.close()
-        await asyncio.sleep(10)  # Asynchronous wait
-        i = (i + 1) % len(status1)
-        i2 = (i + 1) % len(status2)
+        sleep(10)  # Asynchronous wait
+        i = (id + 1) % len(status1)
+        j = (i + 1) % len(status2)
 
 async def main():
     task = asyncio.create_task(update_presence())
