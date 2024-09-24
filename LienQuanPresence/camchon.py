@@ -11,7 +11,7 @@ RPC.update(
             details="Đang tiến hành cấm chọn",
             state="Đang patch dữ liệu",
             start=1697994000,
-            large_image=("https://i.ibb.co/jk3tfMz/IMG-3966.png"), 
+            large_image=("https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/IMG-3966.png?token=GHSAT0AAAAAACX7AZQ5535MLPE6NG77FNC4ZXS6GZA"), 
             large_text="Liên Quân Mobile",
             small_image=("https://i.ibb.co/fpD8NBH/1110855395368509520.png"),
             small_text="Cao Thủ",
