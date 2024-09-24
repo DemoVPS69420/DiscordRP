@@ -64,6 +64,9 @@ async def run():
     """Starts the asynchronous presence update loop."""
     await main_presence()
 
+    # Ensure that the `BaseClient.read_output` coroutine is awaited
+    await RPC.close()
+
 
 if __name__ == "__main__":
     # Connect to Discord RPC before running the loop
