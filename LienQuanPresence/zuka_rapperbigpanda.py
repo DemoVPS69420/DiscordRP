@@ -11,7 +11,7 @@ RPC.update(
             details="Đấu xếp hạng",
             state="Zuka Rapper Big Panda (S+ Hữu hạn)",
             start=time.time(),
-            large_image=("https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/43-C92-EFB-0-F4-D-4-AA7-B3-E4-BC96-AF257199.png?token=GHSAT0AAAAAACX7AZQ5PQQQQGW3LUORNBG6ZXS6ABA"), 
+            large_image=("https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/43-C92-EFB-0-F4-D-4-AA7-B3-E4-BC96-AF257199.png"), 
             large_text="Zuka Rapper Big Panda",
             small_image=("https://i.ibb.co/fpD8NBH/1110855395368509520.png"),
             small_text="Cao Thủ",

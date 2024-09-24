@@ -11,7 +11,7 @@ RPC.update(
             details="Đấu xếp hạng",
             state="Valhein Xạ thần Kagutsuchi (EVO Tiến hóa)",
             start=time.time(),
-            large_image=("https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/FCF5-C58-B-BB12-41-ED-9-E9-F-68659592-C69-A.png?token=GHSAT0AAAAAACX7AZQ4AMRDYMIDPPFYKZW6ZXS6C2A"), 
+            large_image=("https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/FCF5-C58-B-BB12-41-ED-9-E9-F-68659592-C69-A.png"), 
             large_text="Valhein Xạ thần Kagutsuchi",
             small_image=("https://i.ibb.co/fpD8NBH/1110855395368509520.png"),
             small_text="Cao Thủ",
