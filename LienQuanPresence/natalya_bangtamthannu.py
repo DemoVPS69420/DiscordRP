@@ -11,7 +11,7 @@ RPC.update(
             details="Đấu xếp hạng",
             state="Natalya Băng tâm thần nữ (S+ Hữu hạn)",
             start=time.time(),
-            large_image=("https://i.ibb.co/2gSZmxD/C64-BD421-96-B6-4-E77-8579-C033410-B7161.png"), 
+            large_image=("https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/C64-BD421-96-B6-4-E77-8579-C033410-B7161.png?token=GHSAT0AAAAAACX7AZQ4VW5KKNBBFMPFTV5CZXS6CKA"), 
             large_text="Natalya Băng tâm thần nữ",
             small_image=("https://i.ibb.co/fpD8NBH/1110855395368509520.png"),
             small_text="Cao Thủ",

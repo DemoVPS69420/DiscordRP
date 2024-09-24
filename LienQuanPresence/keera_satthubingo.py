@@ -11,7 +11,7 @@ RPC.update(
             details="Đấu xếp hạng",
             state="Keera Sát thủ bí ngô (S+ Hữu hạn)",
             start=time.time(),
-            large_image=("https://i.ibb.co/JzNwhhQ/C5-DF3-CBC-2765-4800-988-F-4-EE5-C48-B39-CE.png"), 
+            large_image=("https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/C5-DF3-CBC-2765-4800-988-F-4-EE5-C48-B39-CE.png?token=GHSAT0AAAAAACX7AZQ4MBFZ4K36N5XNVHH6ZXS6B6Q"), 
             large_text="Keera Sát thủ bí ngô",
             small_image=("https://i.ibb.co/fpD8NBH/1110855395368509520.png"),
             small_text="Cao Thủ",

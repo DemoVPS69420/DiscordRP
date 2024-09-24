@@ -11,7 +11,7 @@ RPC.update(
             details="Đấu xếp hạng",
             state="Violet Thứ Nguyên Vệ Thần (Dimension Breaker Hữu hạn)",
             start=time.time(),
-            large_image=("https://i.ibb.co/xCHG5nZ/0610-DB27-B29-B-4-A18-8092-C6-D83-B0978-D7.png"), 
+            large_image=("https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/0610-DB27-B29-B-4-A18-8092-C6-D83-B0978-D7.png?token=GHSAT0AAAAAACX7AZQ5LG3BT7P5INRHQDBWZXS564Q"), 
             large_text="Violet Thứ Nguyên Vệ Thần",
             small_image=("https://i.ibb.co/fpD8NBH/1110855395368509520.png"),
             small_text="Cao Thủ",

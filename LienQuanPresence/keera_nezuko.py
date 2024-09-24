@@ -11,7 +11,7 @@ RPC.update(
             details="Đấu xếp hạng",
             state="Keera Nezuko Kamado (SS Collab)",
             start=time.time(),
-            large_image=("https://i.ibb.co/P10yTqK/A9-F0-E955-4627-45-FA-A363-6522-AA2-CE00-D.jpg"), 
+            large_image=("https://github.com/DemoVPS69420/DiscordRP/blob/main/lienquanimage/A9-F0-E955-4627-45-FA-A363-6522-AA2-CE00-D.jpg"), 
             large_text="Keera Nezuko Kamado",
             small_image=("https://i.ibb.co/fpD8NBH/1110855395368509520.png"),
             small_text="Cao Thủ",

@@ -11,7 +11,7 @@ RPC.update(
             details="Đấu xếp hạng",
             state="Krixi Cô tiên thỏ (S)",
             start=time.time(),
-            large_image=("https://i.ibb.co/DVGC6QJ/FD25012-B-1-FB2-48-D0-8213-EE67-A5-B7653-C.png"), 
+            large_image=("https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/FD25012-B-1-FB2-48-D0-8213-EE67-A5-B7653-C.png?token=GHSAT0AAAAAACX7AZQ4MDEK4YWEO3OXTEHQZXS6DGA"), 
             large_text="Krixi Cô tiên thỏ",
             small_image=("https://i.ibb.co/fpD8NBH/1110855395368509520.png"),
             small_text="Cao Thủ",
