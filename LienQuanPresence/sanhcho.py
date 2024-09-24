@@ -1,5 +1,6 @@
 
 import os
+import asyncio
 from pypresence import Presence
 import time
 
@@ -8,7 +9,7 @@ i2 = 0
 
 print("Running...")
 
-while True:
+while(True):
     status1 = [
     "Tên ingame: HachizuOrigami",
     "Tên ingame: HachizuOrigami",
@@ -38,7 +39,7 @@ while True:
             state=status2[i],
             details=status1[i],
             start=1697994000,
-            large_image=("https://i.ibb.co/jk3tfMz/IMG-3966.png"), 
+            large_image=("https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/IMG-3966.png"), 
             large_text="Liên Quân Mobile",
             small_image=("https://i.ibb.co/fpD8NBH/1110855395368509520.png"),
             small_text="Cao Thủ",
@@ -46,7 +47,7 @@ while True:
                 {"label": "Server Discord của Garena LQM", "url": "https://discord.gg/lqm"}],
     )
 
-    time.sleep(10)
+    time.sleep(1)
     i = (i + 1) % len(status1)
     i2 = (i + 1) % len(status2)
 else:

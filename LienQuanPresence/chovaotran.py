@@ -11,7 +11,7 @@ RPC.update(
             details="Đấu xếp hạng",
             state="Đang chờ vào trận",
             start=time.time(),
-            large_image=("https://i.ibb.co/jk3tfMz/IMG-3966.png"), 
+            large_image=("https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/IMG-3966.png"), 
             large_text="Liên Quân Mobile",
             small_image=("https://i.ibb.co/fpD8NBH/1110855395368509520.png"),
             small_text="Cao Thủ",
