@@ -11,7 +11,7 @@ RPC.update(
             details="Đấu xếp hạng",
             state="Violet Huyết ma thần (SS Hữu hạn)",
             start=time.time(),
-            large_image=("https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/040-F5-A0-F-BD45-40-A2-A70-E-2-D41-D8608-F4-F.png?token=GHSAT0AAAAAACX7AZQ45MWWMN3QUYSIAMZQZXS56TQ"), 
+            large_image=("https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/040-F5-A0-F-BD45-40-A2-A70-E-2-D41-D8608-F4-F.png"), 
             large_text="Violet Huyết ma thần",
             small_image=("https://i.ibb.co/fpD8NBH/1110855395368509520.png"),
             small_text="Cao Thủ",
