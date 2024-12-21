@@ -12,7 +12,6 @@ status1 = [
     "Tên ingame: HachizuOrigami",
     "Tên ingame: HachizuOrigami",
     "Tên ingame: HachizuOrigami",
-    "Tên ingame: HachizuOrigami",
 ]
 
 status2 = [
