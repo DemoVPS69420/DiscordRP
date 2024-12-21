@@ -10,7 +10,7 @@ RPC.connect()
 RPC.update(
             details="Đang tiến hành cấm chọn",
             state="Đang patch dữ liệu",
-            start=1697994000,
+            start=time.time(),
             large_image=("https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/IMG-3966.png"), 
             large_text="Liên Quân Mobile",
             small_image=("https://i.ibb.co/fpD8NBH/1110855395368509520.png"),
