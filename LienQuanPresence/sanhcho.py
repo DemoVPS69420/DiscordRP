@@ -3,9 +3,12 @@ import time
 from datetime import datetime, timedelta, timezone
 from pypresence import Presence
 
-print("Running...")
+print("Running... (sanhcho.py)")
 
 status1 = [
+    "Tên ingame: HachizuOrigami",
+    "Tên ingame: HachizuOrigami",
+    "Tên ingame: HachizuOrigami",
     "Tên ingame: HachizuOrigami",
     "Tên ingame: HachizuOrigami",
     "Tên ingame: HachizuOrigami",
@@ -15,13 +18,14 @@ status1 = [
 ]
 
 status2 = [
-    "Rank Tinh Anh II 3x",
-    "No data",
+    "Rank Tinh Anh I 1x",
     "Chiến lực (Keera): 5278",
-    "Số trận: 4461",
+    "Chiến lực (Violet): 5384",
+    "Chiến lực (Arthur): 3464",
+    "Số trận: 4466",
     "Tướng: 106, Trang phục: 274",
-    "Độ hot: 1",
-    "Tỷ lệ thắng: 54%",
+    "Độ hot: 1590",
+    "Tỷ lệ thắng: 54.1%",
     "Dấu ấn truyền kì: XI",
 ]
 
