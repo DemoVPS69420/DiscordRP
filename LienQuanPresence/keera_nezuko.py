@@ -2,7 +2,7 @@ import os
 from pypresence import Presence
 import time
 
-print("Running...")
+print("Running... (keera_nezuko.py)")
 
 RPC = Presence(1152566755357626388)
 RPC.connect()
