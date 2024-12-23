@@ -23,8 +23,8 @@ status2 = [
     "Chiến lực (Violet): 5384",
     "Chiến lực (Arthur): 3464",
     "Số trận: 4466",
-    "Tướng: 106, Trang phục: 274",
-    "Độ hot: 1590",
+    "Tướng: 106, Trang phục: 275",
+    "Độ hot: 1591",
     "Tỷ lệ thắng: 54.1%",
     "Dấu ấn truyền kì: XI",
 ]
