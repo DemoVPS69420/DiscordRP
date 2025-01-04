@@ -13,7 +13,7 @@ RPC.update(
             start=time.time(),
             large_image=("https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/C64-BD421-96-B6-4-E77-8579-C033410-B7161.png"), 
             large_text="Natalya Băng tâm thần nữ",
-            small_image=("https://i.ibb.co/fpD8NBH/1110855395368509520.png"),
+            small_image=("https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/1110855395368509520.png"),
             small_text="Cao Thủ",
             buttons=[
                 {"label": "Server Discord của Garena LQM", "url": "https://discord.gg/lqm"}]
