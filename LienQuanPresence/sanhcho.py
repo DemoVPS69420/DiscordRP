@@ -18,11 +18,11 @@ status1 = [
 ]
 
 status2 = [
-    "Rank Cao Thủ x6",
+    "Rank Cao Thủ x7",
     "Chiến lực (Keera): 5278",
     "Chiến lực (Violet): 5384",
     "Chiến lực (Arthur): 3464",
-    "Số trận: 4495",
+    "Số trận: 4496",
     "Tướng: 107, Trang phục: 279",
     "Độ hot: 1601",
     "Tỷ lệ thắng: 54.1%",
@@ -53,7 +53,7 @@ while True:
                 start=get_gmt7_timestamp(),
                 large_image="https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/IMG-3966.png", 
                 large_text="Liên Quân Mobile",
-                small_image="https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/1110855409629139034.png",
+                small_image="https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/1110855395368509520.png",
                 small_text="Cao Thủ",
                 buttons=[
                     {"label": "Server Discord của Garena LQM", "url": "https://discord.gg/lqm"}
