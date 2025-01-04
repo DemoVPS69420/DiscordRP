@@ -18,14 +18,14 @@ status1 = [
 ]
 
 status2 = [
-    "Rank Cao Thủ x3",
+    "Rank Cao Thủ x6",
     "Chiến lực (Keera): 5278",
     "Chiến lực (Violet): 5384",
     "Chiến lực (Arthur): 3464",
-    "Số trận: 4491",
+    "Số trận: 4495",
     "Tướng: 107, Trang phục: 279",
     "Độ hot: 1601",
-    "Tỷ lệ thắng: 54.0%",
+    "Tỷ lệ thắng: 54.1%",
     "Dấu ấn truyền kì: XI",
 ]
 
