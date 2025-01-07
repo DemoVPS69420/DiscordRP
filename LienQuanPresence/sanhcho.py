@@ -40,7 +40,10 @@ def connect_rpc():
         connect_rpc()
 
 def get_gmt7_timestamp():
-    return int((datetime.now(timezone.utc) + timedelta(hours=7)).timestamp())
+    gmt7 = timezone(timedelta(hours=7))
+    now = datetime.now(gmt7)
+    start_of_day = now.replace(hour=0, minute=0, second=0, microsecond=0)
+    return int(start_of_day.timestamp())
 
 connect_rpc()
 
