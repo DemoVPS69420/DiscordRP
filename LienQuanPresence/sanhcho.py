@@ -50,8 +50,7 @@ while True:
             RPC.update(
                 state=status2[i],
                 details=status1[i],
-                start=time.time(),
-                end=time.gmtime(7),
+                start=get_gmt7_timestamp(),
                 large_image="https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/IMG-3966.png", 
                 large_text="Liên Quân Mobile",
                 small_image="https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/1110855395368509520.png",
