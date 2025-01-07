@@ -97,3 +97,6 @@ C:/Users/Admin/Documents/GitHub/DiscordRP/LienQuanPresence/sanhcho.py
 C:/Users/Admin/Documents/GitHub/DiscordRP/LienQuanPresence/chovaotran.py
 C:/Users/Admin/Documents/GitHub/DiscordRP/LienQuanPresence/violet_thunguyenvethan.py
 C:/Users/Admin/Documents/GitHub/DiscordRP/LienQuanPresence/sanhcho.py
+C:/Users/Admin/Documents/GitHub/DiscordRP/LienQuanPresence/sanhcho.py
+C:/Users/Admin/Documents/GitHub/DiscordRP/LienQuanPresence/sanhcho.py
+C:/Users/Admin/Documents/GitHub/DiscordRP/LienQuanPresence/sanhcho.py
