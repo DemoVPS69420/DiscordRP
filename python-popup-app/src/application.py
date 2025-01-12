@@ -6,14 +6,14 @@ import signal
 class Application:
     def __init__(self, master):
         self.master = master
-        self.master.title("Python File Runner")
+        self.master.title("Python file runner for Discord Rich Presence")
         self.current_process = None
         self.history_file = "history.txt"
 
         self.run_button = Button(master, text="Select Python File", command=self.select_file)
         self.run_button.pack(pady=20)
 
-        self.stop_button = Button(master, text="Stop Current File", command=self.stop_current_process)
+        self.stop_button = Button(master, text="Stop Current Python File", command=self.stop_current_process)
         self.stop_button.pack(pady=20)
 
     def select_file(self):
