@@ -1,7 +1,7 @@
 import os
 import time
 from datetime import datetime, timedelta, timezone
-from pypresence import Presence
+from pypresence import Presence, ActivityType
 
 print("Running... (sanhcho.py)")
 
@@ -18,14 +18,14 @@ status1 = [
 ]
 
 status2 = [
-    "Rank Cao Thủ x10",
+    "Rank Cao Thủ x19",
     "Chiến lực (Keera): 5278",
     "Chiến lực (Violet): 5384",
     "Chiến lực (Arthur): 3464",
-    "Số trận: 4500",
+    "Số trận: 4518",
     "Tướng: 107, Trang phục: 279",
-    "Độ hot: 1601",
-    "Tỷ lệ thắng: 54.1%",
+    "Độ hot: 1611",
+    "Tỷ lệ thắng: 54.2%",
     "Dấu ấn truyền kì: XI",
 ]
 
@@ -51,16 +51,15 @@ while True:
     try:
         for i in range(min(len(status1), len(status2))):
             RPC.update(
+                activity_type = ActivityType.LISTENING,
                 state=status2[i],
                 details=status1[i],
-                start=get_gmt7_timestamp(),
+                start=time.time(),
+                end=15 + time.time(),
                 large_image="https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/IMG-3966.png", 
-                large_text="Liên Quân Mobile",
+                large_text="Rich Presence by TheRealRimuruTempest",
                 small_image="https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/1110855395368509520.png",
                 small_text="Cao Thủ",
-                buttons=[
-                    {"label": "Server Discord của Garena LQM", "url": "https://discord.gg/lqm"}
-                ],
             )
             time.sleep(15)  # Adjust the sleep time as needed
     except Exception as e:
