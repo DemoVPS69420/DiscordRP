@@ -18,7 +18,7 @@ status1 = [
 ]
 
 status2 = [
-    "Rank Cao Thủ x19",
+    "Rank Cao Thủ x18",
     "Chiến lực (Keera): 5278",
     "Chiến lực (Violet): 5384",
     "Chiến lực (Arthur): 3464",
