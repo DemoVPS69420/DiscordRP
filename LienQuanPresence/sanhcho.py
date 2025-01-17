@@ -18,12 +18,12 @@ status1 = [
 ]
 
 status2 = [
-    "Rank Cao Thủ x18",
+    "Rank Tinh Anh V x1",
     "Chiến lực (Keera): 5278",
     "Chiến lực (Violet): 5384",
     "Chiến lực (Arthur): 3464",
-    "Số trận: 4518",
-    "Tướng: 107, Trang phục: 279",
+    "Số trận: 4524",
+    "Tướng: 107, Trang phục: 283",
     "Độ hot: 1611",
     "Tỷ lệ thắng: 54.2%",
     "Dấu ấn truyền kì: XI",
@@ -58,8 +58,8 @@ while True:
                 end=15 + time.time(),
                 large_image="https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/IMG-3966.png", 
                 large_text="Rich Presence by TheRealRimuruTempest",
-                small_image="https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/1110855395368509520.png",
-                small_text="Cao Thủ",
+                small_image="https://raw.githubusercontent.com/DemoVPS69420/DiscordRP/refs/heads/main/lienquanimage/1110855409629139034.png",
+                small_text="Tinh Anh",
             )
             time.sleep(15)  # Adjust the sleep time as needed
     except Exception as e:

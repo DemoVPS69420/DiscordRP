@@ -161,3 +161,12 @@ C:/Users/Admin/Documents/GitHub/DiscordRP/LienQuanPresence/sanhcho.py
 C:/Users/Admin/Documents/GitHub/DiscordRP/LienQuanPresence/chovaotran.py
 C:/Users/Admin/Documents/GitHub/DiscordRP/LienQuanPresence/arthur_tonhovosong.py
 C:/Users/Admin/Documents/GitHub/DiscordRP/LienQuanPresence/sanhcho.py
+C:/Users/Admin/Documents/GitHub/DiscordRP/LienQuanPresence/sanhcho.py
+C:/Users/Admin/Documents/GitHub/DiscordRP/LienQuanPresence/chovaotran.py
+C:/Users/Admin/Documents/GitHub/DiscordRP/LienQuanPresence/chovaotran.py
+C:/Users/Admin/Documents/GitHub/DiscordRP/LienQuanPresence/chovaotran.py
+C:/Users/Admin/Documents/GitHub/DiscordRP/LienQuanPresence/keera_chiemtinhhoc.py
+C:/Users/Admin/Documents/GitHub/DiscordRP/LienQuanPresence/sanhcho.py
+C:/Users/Admin/Documents/GitHub/DiscordRP/LienQuanPresence/sanhcho.py
+C:/Users/Admin/Documents/GitHub/DiscordRP/LienQuanPresence/chovaotran.py
+C:/Users/Admin/Documents/GitHub/DiscordRP/LienQuanPresence/keera_chiemtinhhoc.py
